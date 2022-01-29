@@ -1,4 +1,5 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+// npm test .\02-JS-I\homework\tests\JSI.test.js
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = "";
